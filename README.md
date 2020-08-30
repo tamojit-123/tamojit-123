@@ -1,4 +1,4 @@
-### Hi there 👋 TAMOJIT
+### Hi there 👋
 
 About Me:
 
