@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with **JavaScript, HTML, CSS**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tamojit-das-365b19118/](https://www.linkedin.com/in/tamojit-das-365b19118/)
+- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/tamojit-das-365b19118/)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **tamo.das.97@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/tamojit-das-365b19118/](https://www.linkedin.com/in/tamojit-das-365b19118/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/tamojit-das-365b19118/)
 
 - ⚡ Fun fact **Banging your head against a wall for one hour burns 150 calories.**
 
