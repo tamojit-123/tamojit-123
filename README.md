@@ -1,6 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tamojit Das</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
+![Untitled](https://user-images.githubusercontent.com/40804626/104852212-92ff5f80-591f-11eb-8c3f-68cbed6f5df4.png)
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tamojit-123&label=Profile%20views&color=0e75b6&style=flat"
                      alt="tamojit-123"/></p>
 
