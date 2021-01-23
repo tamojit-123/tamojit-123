@@ -28,7 +28,7 @@
 - ⚡ Fun fact **Banging your head against a wall for one hour burns 150 calories.**
 
 <h3 align="left">Connect with me:📲</h3>
-<div style="background-color:black;color:white">>
+<div style="background-color:black;color:white">
 <p align="left">
 <a href="https://codepen.io/tamojit-123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tamojit-123" height="30" width="40" /></a>
 <a href="https://dev.to/tamojit123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tamojit123" height="30" width="40" /></a>
