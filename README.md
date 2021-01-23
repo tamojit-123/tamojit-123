@@ -27,56 +27,15 @@
 
 - ⚡ Fun fact **Banging your head against a wall for one hour burns 150 calories.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://codepen.io/https://codepen.io/tamojit-123" target="blank"><img align="center"
-                                                                                    src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg"
-                                                                                    alt="https://codepen.io/tamojit-123"
-                                                                                    height="30" width="40"/></a>
-    <a href="https://dev.to/https://dev.to/tamojit123" target="blank"><img align="center"
-                                                                           src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"
-                                                                           alt="https://dev.to/tamojit123" height="30"
-                                                                           width="40"/></a>
-    <a href="https://twitter.com/https://twitter.com/tamojitdas97" target="blank"><img align="center"
-                                                                                       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
-                                                                                       alt="https://twitter.com/tamojitdas97"
-                                                                                       height="30" width="40"/></a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/tamojit-das-365b19118/" target="blank"><img
-        align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-        alt="https://www.linkedin.com/in/tamojit-das-365b19118/" height="30" width="40"/></a>
-    <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9829241/tamojit-das" target="blank"><img
-        align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"
-        alt="https://stackoverflow.com/users/9829241/tamojit-das" height="30" width="40"/></a>
-    <a href="https://kaggle.com/https://www.kaggle.com/tamojitdas97" target="blank"><img align="center"
-                                                                                         src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg"
-                                                                                         alt="https://www.kaggle.com/tamojitdas97"
-                                                                                         height="30" width="40"/></a>
-    <a href="https://fb.com/https://www.facebook.com/tamojit.das.73/" target="blank"><img align="center"
-                                                                                          src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
-                                                                                          alt="https://www.facebook.com/tamojit.das.73/"
-                                                                                          height="30" width="40"/></a>
-    <a href="https://instagram.com/https://www.instagram.com/t_for_tamojit/" target="blank"><img align="center"
-                                                                                                 src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
-                                                                                                 alt="https://www.instagram.com/t_for_tamojit/"
-                                                                                                 height="30"
-                                                                                                 width="40"/></a>
-    <a href="https://dribbble.com/https://dribbble.com/tamojit_das" target="blank"><img align="center"
-                                                                                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg"
-                                                                                        alt="https://dribbble.com/tamojit_das"
-                                                                                        height="30" width="40"/></a>
-    <a href="https://medium.com/https://medium.com/@tamo.das.97" target="blank"><img align="center"
-                                                                                     src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"
-                                                                                     alt="https://medium.com/@tamo.das.97"
-                                                                                     height="30" width="40"/></a>
-    <a href="https://www.codechef.com/users/https://www.codechef.com/users/tamo_ab" target="blank"><img align="center"
-                                                                                                        src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-                                                                                                        alt="https://www.codechef.com/users/tamo_ab"
-                                                                                                        height="30"
-                                                                                                        width="40"/></a>
-    <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/tamojitdas/todo-done/"
-       target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg"
-                           alt="https://auth.geeksforgeeks.org/user/tamojitdas/todo-done/" height="30" width="40"/></a>
-</p>
+<h3 align="left">Connect with me:📲</h3>
+[GitHub](https://github.com/tamojit-123) |
+[Twitter](https://twitter.com/tamojitdas97) |
+[LinkedIn](https://www.linkedin.com/in/tamojit-das-365b19118/) |
+[CodersRank](https://profile.codersrank.io/user/tamojit-123) |
+[Gitlab](https://gitlab.com/tamojit-123) |
+[StackOverflow](https://stackoverflow.com/users/9829241/tamojit-das) |
+[Instagram](https://www.instagram.com/t_for_tamojit/) |
+[Gmail](tamo.das.97@gmail.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://developer.android.com" target="_blank"> <img
