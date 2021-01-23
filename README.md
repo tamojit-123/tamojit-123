@@ -29,19 +29,19 @@
 
 <h3 align="left">Connect with me:📲</h3>
 <p align="left" style="background-color:white">
-<a href="https://codepen.io/tamojit-123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tamojit-123" height="30" width="40" /></a>
-<a href="https://dev.to/tamojit123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tamojit123" height="30" width="40" /></a>
-<a href="https://twitter.com/tamojitdas97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tamojitdas97" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tamojit-das-365b19118/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tamojit-das-365b19118/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tamojit-das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="tamojit-das" height="30" width="40" /></a>
-<a href="https://kaggle.com/tamojitdas97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="tamojitdas97" height="30" width="40" /></a>
-<a href="https://fb.com/tamojit.das.73" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tamojit.das.73" height="30" width="40" /></a>
-<a href="https://instagram.com/t_for_tamojit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="t_for_tamojit" height="30" width="40" /></a>
-<a href="https://dribbble.com/tamojit_das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="tamojit_das" height="30" width="40" /></a>
-<a href="https://medium.com/@tamo.das.97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tamo.das.97" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tamo_ab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tamo_ab" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tamojit_ab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="tamojit_ab" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/tamojitdas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="tamojitdas" height="30" width="40" /></a>
+<a href="https://codepen.io/tamojit-123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tamojit-123" height="30" width="40" style="background-color:white" style="background-color:white" /></a>
+<a href="https://dev.to/tamojit123" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tamojit123" height="30" width="40" style="background-color:white" /></a>
+<a href="https://twitter.com/tamojitdas97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tamojitdas97" height="30" width="40" style="background-color:white"/></a>
+<a href="https://linkedin.com/in/tamojit-das-365b19118/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="tamojit-das-365b19118/" height="30" width="40" style="background-color:white"/></a>
+<a href="https://stackoverflow.com/users/tamojit-das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="tamojit-das" height="30" width="40" style="background-color:white"/></a>
+<a href="https://kaggle.com/tamojitdas97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="tamojitdas97" height="30" width="40" style="background-color:white"/></a>
+<a href="https://fb.com/tamojit.das.73" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tamojit.das.73" height="30" width="40" style="background-color:white"/></a>
+<a href="https://instagram.com/t_for_tamojit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="t_for_tamojit" height="30" width="40" style="background-color:white"/></a>
+<a href="https://dribbble.com/tamojit_das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="tamojit_das" height="30" width="40" style="background-color:white"/></a>
+<a href="https://medium.com/@tamo.das.97" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tamo.das.97" height="30" width="40" style="background-color:white"/></a>
+<a href="https://www.codechef.com/users/tamo_ab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tamo_ab" height="30" width="40" style="background-color:white"/></a>
+<a href="https://www.leetcode.com/tamojit_ab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="tamojit_ab" height="30" width="40" style="background-color:white"/></a>
+<a href="https://auth.geeksforgeeks.org/user/tamojitdas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="tamojitdas" height="30" width="40" style="background-color:white"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
