@@ -11,6 +11,8 @@
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img
     src="https://github-profile-trophy.vercel.app/?username=tamojit-123" alt="tamojit-123"/></a></p>
 
+### [👦 About Me](https://www.linkedin.com/in/tamojit-das-365b19118/)
+
 - 🔭 I’m currently working on [StudyMatrix](https://studymatrix.netlify.app/)
 
 - 🌱 I’m currently learning **Firebase**
