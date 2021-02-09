@@ -6,7 +6,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tamojit-123&label=Profile%20views&color=0e75b6&style=flat"
                      alt="tamojit-123"/></p>
                      
-### 🏆 Github Profile Trophy
+### [🏆 Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img
     src="https://github-profile-trophy.vercel.app/?username=tamojit-123" alt="tamojit-123"/></a></p>
