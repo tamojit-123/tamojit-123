@@ -105,18 +105,18 @@
         src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
         alt="webpack" width="40" height="40"/> </a></p>
 
-
+### Most Used Languages()
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=tamojit-123&show_icons=true&locale=en&layout=compact"
         alt="tamojit-123"/></p>
 
-
+### Github Profile Stats()
 
 <p>&nbsp;<img align="center"
               src="https://github-readme-stats.vercel.app/api?username=tamojit-123&show_icons=true&locale=en"
               alt="tamojit-123"/></p>
 
-
+### tamojit-123()
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamojit-123&" alt="tamojit-123"/></p>
 
