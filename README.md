@@ -113,7 +113,7 @@
 
 ### [Github Profile Stats]()
 
-<p>&nbsp;<img align="center"
+<p><img align="center"
               src="https://github-readme-stats.vercel.app/api?username=tamojit-123&show_icons=true&locale=en"
               alt="tamojit-123"/></p>
 
