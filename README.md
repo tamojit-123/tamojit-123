@@ -109,12 +109,11 @@
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=tamojit-123&show_icons=true&locale=en&layout=compact"
-        alt="tamojit-123"/></p>
-        
-        
-<p><img align="center"
+        alt="tamojit-123"/>
+  <img align="right"
               src="https://github-readme-stats.vercel.app/api?username=tamojit-123&show_icons=true&locale=en"
-              alt="tamojit-123"/></p>
+              alt="tamojit-123"/>
+</p>
 
 ### [Current Streak]()
 
