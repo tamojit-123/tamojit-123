@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tamojit Das</h1>
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+<h3 align="center">A passionate frontend and backend developer from India.</h3>
 
 ![Untitled](https://user-images.githubusercontent.com/40804626/104852286-1325c500-5920-11eb-9792-ff0953edee71.png)
 
