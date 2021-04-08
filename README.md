@@ -9,8 +9,7 @@
 ### [🏆 Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img
-    src="https://github-profile-trophy.vercel.app/?username=tamojit-123&theme=nord
-" alt="tamojit-123"/></a></p>
+    src="https://github-profile-trophy.vercel.app/?username=tamojit-123" alt="tamojit-123"/></a></p>
 
 ### [👦 About Me](https://www.linkedin.com/in/tamojit-das-365b19118/)
 
