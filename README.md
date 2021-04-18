@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Firebase**
 
-- 👯 I’m looking to collaborate on **Rest, Vue, Next**
+- 👯 I’m looking to collaborate on **React, Vue, Node**
 
 - 🤝 I’m looking for help with **JavaScript, HTML, CSS**
 
