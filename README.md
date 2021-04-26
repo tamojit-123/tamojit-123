@@ -48,7 +48,7 @@
 <a href="https://auth.geeksforgeeks.org/user/tamojitdas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="tamojitdas" height="30" width="40" style="background-color:white"/></a>
 </p>
 
-### [Languages and Tools:]()
+### [📝Languages and Tools:]()
 <p align="left"><a href="https://developer.android.com" target="_blank"> <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
     alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img
