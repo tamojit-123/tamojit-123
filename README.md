@@ -105,7 +105,7 @@
         src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
         alt="webpack" width="40" height="40"/> </a></p>
 
-### [Most Used Languages]() [Github Profile Stats]()
+### [📈 Most Used Languages]() [Github Profile Stats]()
 
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=tamojit-123&show_icons=true&locale=en&layout=compact"
