@@ -6,7 +6,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=tamojit-123&label=Profile%20views&color=0e75b6&style=flat"
                      alt="tamojit-123"/></p>
                      
-### [Google Developer Profile](https://developers.google.com/profile/u/116908081087483481302) ![image](https://media-exp1.licdn.com/dms/image/C560BAQHtS3OdZ0Kr8Q/company-logo_200_200/0/1557596028224?e=2159024400&v=beta&t=IOGG2ioz8iXd4H0KCzdvYakl9w-Y1OfFFhCszD7gFuY)
+![image](https://media-exp1.licdn.com/dms/image/C560BAQHtS3OdZ0Kr8Q/company-logo_200_200/0/1557596028224?e=2159024400&v=beta&t=IOGG2ioz8iXd4H0KCzdvYakl9w-Y1OfFFhCszD7gFuY) ### [Google Developer Profile](https://developers.google.com/profile/u/116908081087483481302) 
                      
 ### [🏆 Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
