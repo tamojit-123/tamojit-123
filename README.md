@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Web Splash](https://www.youtube.com/channel/UCphDOBWR48-8Vg0VccrGJnw)
 
-- 🌱 I’m currently learning **Advance and Core Java**
+- 🌱 I’m currently learning **Backend with Spring Boot**
 
 - 👯 I’m looking to collaborate on **React, Node**
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [linkedin](https://www.linkedin.com/in/tamojit-das-365b19118/)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **tamo.das.97@gmail.com**
 
