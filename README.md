@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hi. 🙋‍♂️</h1>
+
+![Copy of Pink and Peach Technology LinkedIn Banner](https://user-images.githubusercontent.com/40804626/155834092-965f327f-4861-4570-8b96-d41ed2d1cba4.png)
+
 
 <!--
 **tamojit-123/tamojit-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
