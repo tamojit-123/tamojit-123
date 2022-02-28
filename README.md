@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-</hr>
-### [Google Developer Profile](https://developers.google.com/profile/u/116908081087483481302)<img align="center" src="https://user-images.githubusercontent.com/40804626/117000956-6b31dd00-acff-11eb-95f7-d05b39e8d261.png" alt="google developer" height="60" width="60" style="background-color:white" style="background-color:white" />
+
+
+### [Google Developer Profile](https://developers.google.com/profile/u/116908081087483481302) <img align="center" src="https://user-images.githubusercontent.com/40804626/117000956-6b31dd00-acff-11eb-95f7-d05b39e8d261.png" alt="google developer" height="60" width="60" style="background-color:white" style="background-color:white"/>
                      
 ### [🏆 Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
